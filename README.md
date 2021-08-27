@@ -46,7 +46,7 @@ python C:\class_timer\add_data.py
 
 ---
 There are two choice of notification sounds are available now. 
--![Notification]()
+-![Notification](https://user-images.githubusercontent.com/53591235/131093865-61cc4664-fc36-4699-bd17-01e15e3fd53b.mp4)
 
 You can add another notification by:
 -   Copy the `.wav` file to `C:\class_timer\sound\`
@@ -58,7 +58,7 @@ this task runs the `do.pyw` file at startup.
 
 You can change the task by going to<br>
 &emsp; Windows Task Scheduler --> Meeting Reminder --> Properties
-![task scheduler]()
+![task scheduler](https://user-images.githubusercontent.com/53591235/131093940-c7bfc32b-f8bb-469a-92cc-fed0a64481dd.png)
 
 ---
 ## Uninstalling
