@@ -40,7 +40,10 @@ Enter Meeting link for science :
 
 
 If there is any error in  the *time table* or If you need to change the time table, Run the following Command on cmd.
->`python C:\class_timer\add_data.py`
+```
+python C:\class_timer\add_data.py
+```
+
 ---
 There are two choice of notification sounds are available now. 
 -![Notification]()
@@ -63,6 +66,8 @@ To uninstall the programe run `del.bat` as administrator
 ##### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; OR 
  Open cmd as Administrator and run
 following commands:
->`rmdir /s /q "C:\class_timer"`<br>
->`schtasks /delete /TN "Meeting Reminder" /f`
+```
+rmdir /s /q "C:\class_timer"
+schtasks /delete /TN "Meeting Reminder" /f
+```
 
