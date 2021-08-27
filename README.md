@@ -46,7 +46,8 @@ python C:\class_timer\add_data.py
 
 ---
 There are two choice of notification sounds are available now. 
--![Notification](https://user-images.githubusercontent.com/53591235/131093865-61cc4664-fc36-4699-bd17-01e15e3fd53b.mp4)
+
+https://user-images.githubusercontent.com/53591235/131095129-bdf58184-f191-4bed-ac29-d75a250276be.mov
 
 You can add another notification by:
 -   Copy the `.wav` file to `C:\class_timer\sound\`
@@ -67,7 +68,8 @@ To uninstall the programe run `del.bat` as administrator
  Open cmd as Administrator and run
 following commands:
 ```
-rmdir /s /q "C:\class_timer"
+rmdir /s /q "C:\class_timer
+
 schtasks /delete /TN "Meeting Reminder" /f
 ```
 
