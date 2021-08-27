@@ -1,7 +1,7 @@
 # Meeting Reminder
 ## Installation & Setup
 ---
-Download and Extract the [PopMeet.zip](url) file then
+Download and Extract the [PopMeet.zip](https://github.com/Sarin-jacob/Meeting-Reminder/files/7065323/PopMeet.zip) file then
 * Run the `run.ps1` file with **PowerShell** by clickin *' run with PowerShell '* from the contex menu (Right clicking)<br><br>
 ![context menu](https://www.tenforums.com/attachments/tutorials/161429d1509470221-powershell-scripting-update-windows-10-usb-install-media-image.png)
 ---
